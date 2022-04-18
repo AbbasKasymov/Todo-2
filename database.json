@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "task": "Read some book",
+      "date": "2022-12-30",
+      "time": "23:59",
+      "id": 1
+    },
+    {
+      "task": "Read some book",
+      "date": "2022-12-30",
+      "time": "23:59",
+      "id": 3
+    },
+    {
+      "task": "Read another book",
+      "date": "2023-02-02",
+      "time": "01:02",
+      "id": 4
+    },
+    {
+      "task": "Some shit",
+      "date": "2024-02-01",
+      "time": "03:04",
+      "id": 5
+    }
+  ]
+}
